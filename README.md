@@ -1,9 +1,3 @@
-I did not include that part explicitly in the initial version. I'll add a section to demonstrate how to use the trained model to predict whether a transaction is fraudulent or not, as well as include the specific example you provided.
-
-Here is the updated README file with the prediction example included:
-
----
-
 # Online Payment Fraud Detection using Machine Learning
 
 ## Overview
