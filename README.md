@@ -161,14 +161,3 @@ In this example, the predicted value is `0`, indicating that the transaction is 
 
 In the pursuit of identifying online fraud, the Decision Tree Classifier emerged as the standout choice. Its high F1 score and impressive accuracy underscore its effectiveness in distinguishing fraudulent transactions. This selection reflects a commitment to excellence and precision, ensuring the protection of digital integrity with sophistication and poise.
 
-
-
-## Acknowledgments
-
-- Scikit-learn documentation for providing comprehensive resources on machine learning models and evaluation metrics.
-
----
-
-Feel free to customize this README file further to suit your specific needs. If you have any questions or need additional information, please let me know.
-
-Suryanshu Verma
