@@ -31,30 +31,6 @@ This project focuses on detecting online payment fraud using machine learning te
 |-- requirements.txt        # Required Python packages
 ```
 
-## Installation
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/SuryanshuVerma/online-payment-fraud-detection.git
-    cd online-payment-fraud-detection
-    ```
-
-2. **Create a virtual environment and activate it:**
-
-    ```bash
-    python3 -m venv venv
-    source venv/bin/activate
-    ```
-
-3. **Install the required packages:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
 ### Data Profiling
 
 Generate a detailed report of the dataset using Pandas Profiling:
